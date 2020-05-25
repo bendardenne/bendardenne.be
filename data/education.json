@@ -1,0 +1,15 @@
+[
+    {
+        "school":"Université Catholique de Louvain",
+        "degree":"Master's degree",
+        "major":"Computer Science",
+        "notes":"Major in Artificial Intelligence. \n Thesis topics: Optimizations problems, contraint programming, scala.",
+        "range":"2014 - 2016"
+    },
+    {
+        "school":"Université de Liège",
+        "degree":"Bachelor's degree",
+        "major":"Computer Science",
+        "range":"2010 - 2014"
+    }
+]

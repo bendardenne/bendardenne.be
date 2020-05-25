@@ -1,0 +1,74 @@
+[{
+    "grouping": "Languages and Frameworks",
+    "skills": [{
+      "name": "Java",
+      "icon": "java-plain"
+    }, {
+      "name": "C++",
+      "icon": "cplusplus-plain"
+    }, {
+      "name": "Python",
+      "icon": "python-plain"
+    }, {
+      "name": "OpenGL",
+      "faicon": "cube"
+    }, {
+      "name": "Scala",
+      "faicon": "terminal"
+    }, {
+      "name": "SQL",
+      "faicon": "database"
+    }, {
+      "name": "Javascript",
+      "icon": "javascript-plain"
+    }, {
+      "name": "Typescript",
+      "icon": "typescript-plain"
+    }]
+  },
+  {
+    "grouping": "Systems and Tools",
+    "skills": [{
+      "name": "Linux (15 years)",
+      "icon": "linux-plain"
+    }, {
+      "name": "Java Native Interface",
+      "icon": "java-plain"
+    }, {
+      "name": "git / mercurial",
+      "icon": "git-plain"
+    }, {
+      "name": "maven",
+      "faicon": "terminal"
+    }, {
+      "name": "NodeJS",
+      "icon": "nodejs-plain"
+    }, {
+      "name": "Apache Buildr & Ivy",
+      "icon": "apache-plain"
+    } ]
+  },
+  {
+    "grouping": "Domain Knowledge",
+    "skills": [{
+        "name": "OGC standards",
+        "faicon": "globe-americas"
+      },
+      {
+        "name": "GIS Formats",
+        "faicon": "globe-americas"
+      },
+      {
+        "name": "MilSym basics (APP6, MIL-STD-2525)",
+        "faicon": "map-marked"
+      },
+      {
+        "name": "Stanag 4609 / MISB0601",
+        "faicon": "video"
+      }
+    ]
+  }, {
+    "grouping": "Soft",
+    "skills": ["Fast learner", "Highly polyvalent", "Pragmatic", "Self-critical"]
+  }
+]
